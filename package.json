@@ -1,0 +1,19 @@
+{
+  "name": "header_parser",
+  "version": "1.0.0",
+  "description": "FCC Backend Project #2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsjungcr/header_Parser.git"
+  },
+  "author": "Han S. Jung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsjungcr/header_Parser/issues"
+  },
+  "homepage": "https://github.com/hsjungcr/header_Parser#readme"
+}
