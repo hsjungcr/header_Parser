@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/hsjungcr/header_Parser/issues"
   },
-  "homepage": "https://github.com/hsjungcr/header_Parser#readme"
+  "homepage": "https://github.com/hsjungcr/header_Parser#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "useragent": "^2.1.13"
+  }
 }
